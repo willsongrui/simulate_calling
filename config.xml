@@ -1,0 +1,5 @@
+<config>
+<ip>192.168.2.192</ip>
+<port>14800</port>
+<agent_num>50</agent_num>
+</config>
